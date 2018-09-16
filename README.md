@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-CSharpSampleCode - [https://github.com/WonHyeongSeok/CSharp/tree/master/CShapSampleCode] and ![Image](src)
+CSharpSampleCode- [https://github.com/WonHyeongSeok/CSharp/tree/master/CShapSampleCode] and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
