@@ -1,8 +1,8 @@
 ## 원형석 포트폴리오 페이지 입니다.
+-게임 클라이언트
 
-CSharPortfolio
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Pdf File
+PdfFile - [PdfUrl]
 
 ### CSharp
 CSharpSampleCode - [CSharpSampleCodeUrl](https://github.com/WonHyeongSeok/CSharp/tree/master/CShapSampleCode).
@@ -10,8 +10,8 @@ CSharpSampleCode - [CSharpSampleCodeUrl](https://github.com/WonHyeongSeok/CSharp
 ### Cpp
 CppSampleCode - [CppSampleCodeUrl](https://github.com/WonHyeongSeok/CSharp/tree/master/CShapSampleCode).
 
-### Video
-PortfolioVideo - [VideoUrl](https://www.youtube.com/watch?v=l8vch2xXzP8).
+### GameVideo
+GameVideo - [VideoUrl](https://www.youtube.com/watch?v=l8vch2xXzP8).
 
 ```markdown
 Syntax highlighted code block
