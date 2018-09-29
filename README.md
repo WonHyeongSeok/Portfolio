@@ -8,7 +8,7 @@ PdfFile - [PdfUrl](https://github.com/WonHyeongSeok/PortfolioPdf/blob/master/%EC
 CSharpSampleCode - [CSharpSampleCodeUrl](https://github.com/WonHyeongSeok/CSharp/tree/master/CShapSampleCode).
 
 ### Cpp
-CppSampleCode - [CppSampleCodeUrl](https://github.com/WonHyeongSeok/CSharp/tree/master/CShapSampleCode).
+CppSampleCode - [CppSampleCodeUrl](https://github.com/WonHyeongSeok/Cpp).
 
 ### GameVideo
 GameVideo - [VideoUrl](https://www.youtube.com/watch?v=l8vch2xXzP8).
