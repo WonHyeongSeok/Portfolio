@@ -9,5 +9,5 @@ CSharpSampleCode - [CSharpSampleCodeUrl](https://github.com/WonHyeongSeok/CSharp
 
 
 ### GameVideo
-GameVideo - [VideoUrl](https://youtu.be/l8vch2xXzP8).
+GameVideo - [VideoUrl](https://youtu.be/yDDOnjKPasc).
 
